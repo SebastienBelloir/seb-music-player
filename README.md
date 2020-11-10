@@ -12,6 +12,7 @@ Music Player made with React JS, SASS and some CSS animation. This player was ma
 
 ### Installation
 1- Clone this repo
+
 2- Install the dependencies and devDependencies and start the application.
 
 #### Using NPM
